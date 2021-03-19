@@ -90,7 +90,7 @@
             // 
             this.btnCong.Location = new System.Drawing.Point(381, 48);
             this.btnCong.Name = "btnCong";
-            this.btnCong.Size = new System.Drawing.Size(84, 41);
+            this.btnCong.Size = new System.Drawing.Size(90, 40);
             this.btnCong.TabIndex = 6;
             this.btnCong.Text = "+";
             this.btnCong.UseVisualStyleBackColor = true;
@@ -100,7 +100,7 @@
             // 
             this.btnTru.Location = new System.Drawing.Point(381, 128);
             this.btnTru.Name = "btnTru";
-            this.btnTru.Size = new System.Drawing.Size(84, 38);
+            this.btnTru.Size = new System.Drawing.Size(90, 40);
             this.btnTru.TabIndex = 7;
             this.btnTru.Text = "-";
             this.btnTru.UseVisualStyleBackColor = true;
